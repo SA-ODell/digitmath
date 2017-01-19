@@ -1,0 +1,15 @@
+{
+  "name": "ping_pong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "digitmath.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
